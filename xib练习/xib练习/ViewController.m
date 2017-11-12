@@ -68,6 +68,7 @@
         }
         
     }
+    NSLog(@"成功了");
     _label.attributedText = str;
     
     //_label.font = [UIFont systemFontOfSize:14];
